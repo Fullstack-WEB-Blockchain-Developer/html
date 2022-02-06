@@ -4,7 +4,7 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'Demo contact form <https://fullstack-web-blockchain-developer.github.io/portfolio/>';
+$from = 'Demo contact form <https://fullstack-web-blockchain-developer.github.io/portfolio>';
 
 // an email address that will receive the email with the output of the form
 $sendTo = 'Demo contact form <javierdesardins@outlook.com>';
